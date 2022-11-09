@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  background-color: aqua;
+  font-size: 20px;
+  color: brown;
+  opacity: 0.8;
+}
+
+h2 {
+  color: red;
+  background-color: black;
+  font-weight: bold;
+}
+div {
+  border: 20px black;
+  padding: 1px;
+}
+.yoda {
+  border: 1px solid black;
+  
+}
