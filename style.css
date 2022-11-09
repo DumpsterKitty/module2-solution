@@ -29,10 +29,16 @@ h2  {
 }
   #vader {
     width: 45%;
+    margin-bottom: 10px;
     
   }
   #obi-wan {
     width: 90%;
+    }
+  }
+  @media (max-width: 767px) {
+    .columns {
+      width: 95%;
     }
   }
   
