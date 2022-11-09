@@ -39,6 +39,7 @@ h2  {
   @media (max-width: 767px) {
     .columns {
       width: 95%;
+      margin-bottom: 10px;
     }
   }
   
